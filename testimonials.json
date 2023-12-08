@@ -1,0 +1,23 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "image": "",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti iste optio facilis dolorum corporis asperiores, ullam autem repellat vel eos consequatur labore officiis voluptatibus nihil fugiat quasi eveniet illo dignissimos.",
+      "author": "jOHN DOE",
+      "web": "xyz.com"
+    },{
+      "id": 2,
+      "image": "",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti iste optio facilis dolorum corporis asperiores, ullam autem repellat vel eos consequatur labore officiis voluptatibus nihil fugiat quasi eveniet illo dignissimos.",
+      "author": "jOHN DOE",
+      "web": "xyz.com"
+    },{
+      "id": 3,
+      "image": "",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti iste optio facilis dolorum corporis asperiores, ullam autem repellat vel eos consequatur labore officiis voluptatibus nihil fugiat quasi eveniet illo dignissimos.",
+      "author": "jOHN DOE",
+      "web": "xyz.com"
+    }
+  ]
+}

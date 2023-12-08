@@ -1,0 +1,41 @@
+{
+  "skills": [
+    {
+      "id": 1,
+      "image": "https://pupelis.com/svg/javascript.svg",
+      "name": "Javascript"
+    },{
+      "id": 2,
+      "image": "https://pupelis.com/svg/react.svg",
+      "name": "React"
+    },{
+      "id": 3,
+      "image": "https://pupelis.com/svg/figma.svg",
+      "name": "Figma"
+    },{
+      "id": 4,
+      "image": "https://pupelis.com/svg/git.svg",
+      "name": "Git"
+    },{
+      "id": 5,
+      "image": "https://pupelis.com/svg/sass.svg",
+      "name": "Sass"
+    },{
+      "id": 6,
+      "image": "https://pupelis.com/svg/prestashop.svg",
+      "name": "PrestaShop"
+    },{
+      "id": 7,
+      "image": "https://pupelis.com/svg/wp.svg",
+      "name": "Wordpress"
+    },{
+      "id": 8,
+      "image": "https://pupelis.com/svg/ai.svg",
+      "name": "Illustrator"
+    },{
+      "id": 9,
+      "image": "https://pupelis.com/svg/ps.svg",
+      "name": "Photoshop"
+    }
+  ]
+}

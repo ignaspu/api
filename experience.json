@@ -1,0 +1,26 @@
+{
+  "experience": [
+    {
+      "id": 1,
+      "date": "2022 rugsėjis - Dabar",
+      "position": "Internetinės parduotuvės vadovas",
+      "points": [
+        "PrestaShop CMS valdymas ir programavimas", "Įgavau didelę bazę internetinės prekybos žinių", "Gebėjau išspręsti problemas su techninėmis problemomis"
+      ]
+    },{
+      "id": 2,
+      "date": "2020 lapkritis - 2021 vasaris",
+      "position": "Praktikantas",
+      "points": [
+        "Rinkodaros sprendimų generavimas", "Bendradarbiavimas su komandos nariais, siekdamas užtikrinti puikų bendravimą", "Turinio kūrimas įvairioms skaitmeninėms platformoms"
+      ]
+    },{
+      "id": 3,
+      "date": "2020 sausis - 2020 liepa",
+      "position": "Rinkodaros vadybininkas",
+      "points": [
+        "Generavau klientų pritraukimo strategijas, siekiant padidinti pardavimus", "Sukūriau ir įgyvendinau rinkodaros kampanijas", "Įdiegiau SEO ir SEM strategijas siekdamas padidinti paieškos indeksavimo rodiklį"
+      ]
+    }
+  ]
+}

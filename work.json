@@ -1,0 +1,12 @@
+{
+  "work": [
+    {
+      "id": 1,
+      "image": "https://i.imgur.com/N8rHFt1.png",
+      "title": "Internetinis forumas",
+      "description": "Internetinio forumo platforma su galimybę registruotis, prisijungti. Prisijungus galima vertinti pranešimus, komentuoti, vertinti komentarus.",
+      "tools": ["React", "Javascript", "HTML", "CSS"],
+      "url": "https://github.com/ignaspu/galutinis-projektas"
+    }
+  ]
+}
